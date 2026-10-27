@@ -41,4 +41,4 @@ Jestem studentem pasjonującym się **Sztuczną Inteligencją**, **Data Science*
 
 Jeśli chcesz porozmawiać o danych, matematyce pod spodem algorytmów lub po prostu nawiązać kontakt:
 
-* ✉️ **Email:** [twoj.adres@email.com](mailto:twoj.adres@email.com)
+* ✉️ **Email:** [cichor40@gmail.com](mailto:cichor40@gmail.com)
