@@ -1,24 +1,44 @@
-# Hello there, I'm Kuba 👋👨🏼‍💻
-Welcome to my profile!!!
-I'm Kuba, I am Fullstack developer. I am from 🇵🇱 <b>Katowice, Poland</b>
+<div align="center">
+  <h1>Cześć, jestem Jakub! 👋</h1>
+  <p>
+    <b>Student Sztucznej Inteligencji | Entuzjasta Data Science | Python Developer</b>
+  </p>
+</div>
 
-## **About me**
-I am a student at ZSEiI in Sosnowiec. I am studing here programming but me journey started way before around 7 yrs ago. I am developing myself into being the best Fullstack developer I only can but currently my main goal is improving my backend skills and I'm focusing on it
+Jestem studentem pasjonującym się **Sztuczną Inteligencją**, **Data Science** oraz **Matematyką**. Skupiam się na głębokim zrozumieniu algorytmów uczenia maszynowego i pisaniu czystego, optymalnego kodu. Obecnie rozwijam swoje umiejętności akademickie i techniczne, poszerzam portfolio i przygotowując się do rozpoczęcia kariery zawodowej w branży danych.
 
-- 🔭 I’m currently working on ... oh it's secret 🤐
-- 🌱 I’m currently learning nodejs and express (improving my current skills)
-- ⚡ Fun fact: I love travelling ✈ and playing xbox games 🕹️
+## 🧠 O mnie
 
-## **Technologies I code (or think I can code) in**
+* 🎓 Studiuję sztuczną inteligencję i analizę danych, kładąc duży nacisk na praktyczne zastosowanie wiedzy.
+* 📈 Moimi głównymi atutami są **dbałość o czysty kod (Clean Code)** oraz silne **podstawy matematyczne**, które pozwalają mi w pełni rozumieć mechanikę działania modeli AI.
+* 🚀 Obecnie zgłębiam klasyczne algorytmy Machine Learningu (Drzewa decyzyjne, Random Forest, KNN, Regresja Liniowa) i planuję dalszy rozwój w stronę bardziej zaawansowanych architektur.
+* 💡 Wyznaję zasadę nauki poprzez projekty (project-based learning) – teorię od razu przekładam na kod.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,nodejs,express,mysql)](https://skillicons.dev)
+## 🛠 Technologie i Narzędzia
 
-## **Tools**
-[![My tools](https://skillicons.dev/icons?i=github,vscode,figma,xd)](https://skillicons.dev)
-## **You can contact me on**
+**Języki i ekosystem:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<a href="https://www.instagram.com/_kuba_pol_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/></a>
-<a href="https://www.facebook.com/profile.php?id=100021376008073" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/></a>
+**Data Science & Machine Learning:**
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-17A2B8?style=for-the-badge&logo=xgboost&logoColor=white)
 
-> [!Important] 
-> <a href="./cv.pdf" download><button>Download CV</button></a> 
+## 📂 Wyróżnione Projekty
+
+* **[spotify_stat](https://github.com/JakubPolchlopek/spotify_stat)** – Aplikacja analityczna przetwarzająca dane z API Spotify. Wykorzystuje biblioteki takie jak `pandas`, `Spotipy` i `matplotlib` do ekstrakcji, obróbki i wizualizacji muzycznych statystyk.
+
+## 📊 Statystyki GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JakubPolchlopek&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" alt="Statystyki GitHub Jakuba" />
+</div>
+
+## 📫 Kontakt
+
+Jeśli chcesz porozmawiać o danych, matematyce pod spodem algorytmów lub po prostu nawiązać kontakt:
+
+* ✉️ **Email:** [twoj.adres@email.com](mailto:twoj.adres@email.com)
